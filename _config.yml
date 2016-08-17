@@ -1,0 +1,14 @@
+layout_spectrum: 0.2455197
+typography_spectrum: 0.8210161
+color:
+  saturation: 0.6451613
+  brandStrength: 0.4564336
+  lightness: 0.6146954
+  rhythmicContrast: 0.5788531
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Expressstrength
